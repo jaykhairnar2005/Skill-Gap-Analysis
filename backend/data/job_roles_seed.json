@@ -1,0 +1,3392 @@
+[
+  {
+    "domain": "IT & Software Development",
+    "roles": [
+      {
+        "title": "Backend Developer",
+        "description": "Responsible for backend developer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Frontend Developer",
+        "description": "Responsible for frontend developer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Full Stack Developer",
+        "description": "Responsible for full stack developer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Mobile App Developer",
+        "description": "Responsible for mobile app developer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "DevOps Engineer",
+        "description": "Responsible for devops engineer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Cloud Engineer",
+        "description": "Responsible for cloud engineer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "QA Automation Engineer",
+        "description": "Responsible for qa automation engineer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "description": "Responsible for site reliability engineer deliverables in IT & Software Development, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Problem Solving",
+          "Git",
+          "Agile",
+          "Software Design",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      }
+    ]
+  },
+  {
+    "domain": "Data & Analytics",
+    "roles": [
+      {
+        "title": "Data Analyst",
+        "description": "Responsible for data analyst deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Business Intelligence Analyst",
+        "description": "Responsible for business intelligence analyst deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Data Engineer",
+        "description": "Responsible for data engineer deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Machine Learning"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "description": "Responsible for machine learning engineer deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Data Scientist",
+        "description": "Responsible for data scientist deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Analytics Engineer",
+        "description": "Responsible for analytics engineer deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Machine Learning"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "AI Research Engineer",
+        "description": "Responsible for ai research engineer deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Quantitative Analyst",
+        "description": "Responsible for quantitative analyst deliverables in Data & Analytics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "SQL",
+          "Statistics",
+          "Data Visualization",
+          "Communication",
+          "Python",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      }
+    ]
+  },
+  {
+    "domain": "Cybersecurity",
+    "roles": [
+      {
+        "title": "Security Analyst",
+        "description": "Responsible for security analyst deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "SIEM",
+          "Threat Modeling",
+          "Cloud Security",
+          "Vulnerability Management",
+          "Security Operations",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Security Engineer",
+        "description": "Responsible for security engineer deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "SIEM"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Cloud Security Engineer",
+        "description": "Responsible for cloud security engineer deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "SIEM"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Application Security Engineer",
+        "description": "Responsible for application security engineer deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "SIEM"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Penetration Tester",
+        "description": "Responsible for penetration tester deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "GRC Analyst",
+        "description": "Responsible for grc analyst deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "SIEM",
+          "Threat Modeling",
+          "Cloud Security",
+          "Vulnerability Management",
+          "Security Operations",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Digital Forensics Analyst",
+        "description": "Responsible for digital forensics analyst deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "SIEM",
+          "Threat Modeling",
+          "Cloud Security",
+          "Vulnerability Management",
+          "Security Operations",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Security Architect",
+        "description": "Responsible for security architect deliverables in Cybersecurity, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Risk Assessment",
+          "Networking",
+          "Incident Response",
+          "Compliance",
+          "SIEM",
+          "Threat Modeling",
+          "Cloud Security",
+          "Vulnerability Management",
+          "Security Operations",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Product & Project Management",
+    "roles": [
+      {
+        "title": "Product Manager",
+        "description": "Responsible for product manager deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Technical Product Manager",
+        "description": "Responsible for technical product manager deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Project Manager",
+        "description": "Responsible for project manager deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Program Manager",
+        "description": "Responsible for program manager deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Scrum Master",
+        "description": "Responsible for scrum master deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Business Analyst",
+        "description": "Responsible for business analyst deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Product Operations Manager",
+        "description": "Responsible for product operations manager deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization",
+          "Inventory Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Delivery Manager",
+        "description": "Responsible for delivery manager deliverables in Product & Project Management, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Roadmapping",
+          "Planning",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Design & Creative",
+    "roles": [
+      {
+        "title": "UI Designer",
+        "description": "Responsible for ui designer deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "UX Designer",
+        "description": "Responsible for ux designer deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "UX Researcher",
+        "description": "Responsible for ux researcher deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Product Designer",
+        "description": "Responsible for product designer deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Graphic Designer",
+        "description": "Responsible for graphic designer deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Motion Designer",
+        "description": "Responsible for motion designer deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "3D Artist",
+        "description": "Responsible for 3d artist deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Creative Director",
+        "description": "Responsible for creative director deliverables in Design & Creative, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Design Thinking",
+          "Creativity",
+          "Collaboration",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Figma"
+        ],
+        "experience_level": "Executive",
+        "salary_range": "$180k - $350k"
+      }
+    ]
+  },
+  {
+    "domain": "Sales",
+    "roles": [
+      {
+        "title": "Sales Development Representative",
+        "description": "Responsible for sales development representative deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Pipeline Management",
+          "Customer Communication",
+          "Forecasting",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Account Executive",
+        "description": "Responsible for account executive deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Pipeline Management",
+          "Customer Communication",
+          "Forecasting",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Enterprise Account Executive",
+        "description": "Responsible for enterprise account executive deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Pipeline Management",
+          "Customer Communication",
+          "Forecasting",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Account Manager",
+        "description": "Responsible for account manager deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Pipeline Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Customer Success Manager",
+        "description": "Responsible for customer success manager deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Pipeline Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Sales Operations Analyst",
+        "description": "Responsible for sales operations analyst deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Pipeline Management",
+          "Customer Communication",
+          "Forecasting",
+          "Process Optimization",
+          "Inventory Management",
+          "Demand Planning"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Channel Sales Manager",
+        "description": "Responsible for channel sales manager deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Pipeline Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Sales Manager",
+        "description": "Responsible for sales manager deliverables in Sales, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Negotiation",
+          "CRM",
+          "Communication",
+          "Relationship Building",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Pipeline Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Marketing",
+    "roles": [
+      {
+        "title": "Digital Marketing Specialist",
+        "description": "Responsible for digital marketing specialist deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "SEO",
+          "Campaign Management",
+          "A/B Testing",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Performance Marketing Manager",
+        "description": "Responsible for performance marketing manager deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "SEO"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Content Marketing Manager",
+        "description": "Responsible for content marketing manager deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "SEO"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "SEO Specialist",
+        "description": "Responsible for seo specialist deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "SEO",
+          "Campaign Management",
+          "A/B Testing",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Social Media Manager",
+        "description": "Responsible for social media manager deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Brand Manager",
+        "description": "Responsible for brand manager deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "SEO"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Product Marketing Manager",
+        "description": "Responsible for product marketing manager deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "SEO"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Growth Marketing Manager",
+        "description": "Responsible for growth marketing manager deliverables in Marketing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Campaign Planning",
+          "Analytics",
+          "Content Strategy",
+          "Audience Targeting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "SEO"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Finance & Banking",
+    "roles": [
+      {
+        "title": "Financial Analyst",
+        "description": "Responsible for financial analyst deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Investment Analyst",
+        "description": "Responsible for investment analyst deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Credit Analyst",
+        "description": "Responsible for credit analyst deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Treasury Analyst",
+        "description": "Responsible for treasury analyst deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Risk Analyst",
+        "description": "Responsible for risk analyst deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "FP&A Manager",
+        "description": "Responsible for fp&a manager deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Compliance Officer",
+        "description": "Responsible for compliance officer deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Internal Auditor",
+        "description": "Responsible for internal auditor deliverables in Finance & Banking, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Financial Analysis",
+          "Regulatory Awareness",
+          "Risk Thinking",
+          "Reporting",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      }
+    ]
+  },
+  {
+    "domain": "Human Resources",
+    "roles": [
+      {
+        "title": "HR Generalist",
+        "description": "Responsible for hr generalist deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Talent Acquisition Specialist",
+        "description": "Responsible for talent acquisition specialist deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Recruiter",
+        "description": "Responsible for recruiter deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "HR Business Partner",
+        "description": "Responsible for hr business partner deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Compensation Analyst",
+        "description": "Responsible for compensation analyst deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Learning and Development Specialist",
+        "description": "Responsible for learning and development specialist deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "People Operations Manager",
+        "description": "Responsible for people operations manager deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "CHRO",
+        "description": "Responsible for chro deliverables in Human Resources, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Communication",
+          "Policy Knowledge",
+          "Confidentiality",
+          "Process Management",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      }
+    ]
+  },
+  {
+    "domain": "Healthcare",
+    "roles": [
+      {
+        "title": "Registered Nurse",
+        "description": "Responsible for registered nurse deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Patient Care",
+          "Clinical Assessment",
+          "Medical Documentation",
+          "Care Coordination",
+          "Regulatory Compliance",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Medical Doctor",
+        "description": "Responsible for medical doctor deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Patient Care",
+          "Clinical Assessment",
+          "Medical Documentation",
+          "Care Coordination",
+          "Regulatory Compliance",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Pharmacist",
+        "description": "Responsible for pharmacist deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Patient Care",
+          "Clinical Assessment",
+          "Medical Documentation",
+          "Care Coordination",
+          "Regulatory Compliance",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Physical Therapist",
+        "description": "Responsible for physical therapist deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Radiology Technician",
+        "description": "Responsible for radiology technician deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Healthcare Administrator",
+        "description": "Responsible for healthcare administrator deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Patient Care",
+          "Clinical Assessment",
+          "Medical Documentation",
+          "Care Coordination",
+          "Regulatory Compliance",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Clinical Research Coordinator",
+        "description": "Responsible for clinical research coordinator deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Patient Care",
+          "Clinical Assessment",
+          "Medical Documentation",
+          "Care Coordination",
+          "Regulatory Compliance",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Public Health Analyst",
+        "description": "Responsible for public health analyst deliverables in Healthcare, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Patient Safety",
+          "Clinical Documentation",
+          "Communication",
+          "Ethics",
+          "Patient Care",
+          "Clinical Assessment",
+          "Medical Documentation",
+          "Care Coordination",
+          "Regulatory Compliance",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      }
+    ]
+  },
+  {
+    "domain": "Education",
+    "roles": [
+      {
+        "title": "School Teacher",
+        "description": "Responsible for school teacher deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Lesson Planning",
+          "Mentoring",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "University Lecturer",
+        "description": "Responsible for university lecturer deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Lesson Planning",
+          "Mentoring",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Instructional Designer",
+        "description": "Responsible for instructional designer deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Figma",
+          "User Research",
+          "Prototyping",
+          "Design Systems",
+          "Visual Design",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Academic Counselor",
+        "description": "Responsible for academic counselor deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Legal Research",
+          "Contract Drafting",
+          "Compliance",
+          "Documentation",
+          "Case Analysis",
+          "Lesson Planning"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Special Education Teacher",
+        "description": "Responsible for special education teacher deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Lesson Planning",
+          "Mentoring",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "School Principal",
+        "description": "Responsible for school principal deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Lesson Planning",
+          "Mentoring",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Education Program Manager",
+        "description": "Responsible for education program manager deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Lesson Planning"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "EdTech Product Specialist",
+        "description": "Responsible for edtech product specialist deliverables in Education, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Curriculum Design",
+          "Assessment",
+          "Classroom Management",
+          "Planning",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      }
+    ]
+  },
+  {
+    "domain": "Legal",
+    "roles": [
+      {
+        "title": "Corporate Lawyer",
+        "description": "Responsible for corporate lawyer deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Contract Drafting",
+          "Compliance",
+          "Documentation",
+          "Case Analysis",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Litigation Associate",
+        "description": "Responsible for litigation associate deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Compliance Lawyer",
+        "description": "Responsible for compliance lawyer deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Contract Drafting",
+          "Compliance",
+          "Documentation",
+          "Case Analysis",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Paralegal",
+        "description": "Responsible for paralegal deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Contract Drafting",
+          "Compliance",
+          "Documentation",
+          "Case Analysis",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Legal Operations Manager",
+        "description": "Responsible for legal operations manager deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Contract Drafting"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Contract Specialist",
+        "description": "Responsible for contract specialist deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "IP Counsel",
+        "description": "Responsible for ip counsel deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Contract Drafting",
+          "Compliance",
+          "Documentation",
+          "Case Analysis",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Legal Analyst",
+        "description": "Responsible for legal analyst deliverables in Legal, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Legal Research",
+          "Writing",
+          "Regulatory Knowledge",
+          "Attention to Detail",
+          "Contract Drafting",
+          "Compliance",
+          "Documentation",
+          "Case Analysis",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      }
+    ]
+  },
+  {
+    "domain": "Manufacturing",
+    "roles": [
+      {
+        "title": "Manufacturing Engineer",
+        "description": "Responsible for manufacturing engineer deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Production Supervisor",
+        "description": "Responsible for production supervisor deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Quality Assurance Engineer",
+        "description": "Responsible for quality assurance engineer deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Industrial Engineer",
+        "description": "Responsible for industrial engineer deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Maintenance Engineer",
+        "description": "Responsible for maintenance engineer deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Plant Manager",
+        "description": "Responsible for plant manager deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Supply Planner",
+        "description": "Responsible for supply planner deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Process Optimization",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Process Technician",
+        "description": "Responsible for process technician deliverables in Manufacturing, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Process Improvement",
+          "Safety",
+          "Quality Control",
+          "Documentation",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      }
+    ]
+  },
+  {
+    "domain": "Construction & Real Estate",
+    "roles": [
+      {
+        "title": "Civil Engineer",
+        "description": "Responsible for civil engineer deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Construction Project Manager",
+        "description": "Responsible for construction project manager deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Site Engineer",
+        "description": "Responsible for site engineer deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Quantity Surveyor",
+        "description": "Responsible for quantity surveyor deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Architect",
+        "description": "Responsible for architect deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Real Estate Analyst",
+        "description": "Responsible for real estate analyst deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Property Manager",
+        "description": "Responsible for property manager deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Urban Planner",
+        "description": "Responsible for urban planner deliverables in Construction & Real Estate, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Project Coordination",
+          "Safety Compliance",
+          "Scheduling",
+          "Budget Awareness",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      }
+    ]
+  },
+  {
+    "domain": "Operations & Supply Chain",
+    "roles": [
+      {
+        "title": "Operations Manager",
+        "description": "Responsible for operations manager deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Inventory Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Supply Chain Analyst",
+        "description": "Responsible for supply chain analyst deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Procurement Specialist",
+        "description": "Responsible for procurement specialist deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Logistics Coordinator",
+        "description": "Responsible for logistics coordinator deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Warehouse Manager",
+        "description": "Responsible for warehouse manager deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Inventory Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Demand Planner",
+        "description": "Responsible for demand planner deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Category Manager Retail",
+        "description": "Responsible for category manager retail deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Chief Operating Officer",
+        "description": "Responsible for chief operating officer deliverables in Operations & Supply Chain, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Planning",
+          "Analytics",
+          "Process Optimization",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Executive",
+        "salary_range": "$180k - $350k"
+      }
+    ]
+  },
+  {
+    "domain": "Media & Communication",
+    "roles": [
+      {
+        "title": "Journalist",
+        "description": "Responsible for journalist deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "News Producer",
+        "description": "Responsible for news producer deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Video Producer",
+        "description": "Responsible for video producer deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Copywriter",
+        "description": "Responsible for copywriter deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "PR Specialist",
+        "description": "Responsible for pr specialist deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Content Editor",
+        "description": "Responsible for content editor deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "SEO",
+          "Campaign Management",
+          "Analytics",
+          "Content Strategy",
+          "A/B Testing",
+          "Problem Solving"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Broadcast Engineer",
+        "description": "Responsible for broadcast engineer deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Problem Solving"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Communications Manager",
+        "description": "Responsible for communications manager deliverables in Media & Communication, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Storytelling",
+          "Audience Understanding",
+          "Communication",
+          "Content Planning",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Hospitality & Tourism",
+    "roles": [
+      {
+        "title": "Hotel Manager",
+        "description": "Responsible for hotel manager deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Front Desk Supervisor",
+        "description": "Responsible for front desk supervisor deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Travel Consultant",
+        "description": "Responsible for travel consultant deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Event Manager",
+        "description": "Responsible for event manager deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Restaurant Manager",
+        "description": "Responsible for restaurant manager deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Revenue Manager",
+        "description": "Responsible for revenue manager deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Concierge",
+        "description": "Responsible for concierge deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Tour Operations Manager",
+        "description": "Responsible for tour operations manager deliverables in Hospitality & Tourism, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Service",
+          "Operations",
+          "Communication",
+          "Problem Resolution",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Retail & E-Commerce",
+    "roles": [
+      {
+        "title": "Retail Store Manager",
+        "description": "Responsible for retail store manager deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Merchandising Manager",
+        "description": "Responsible for merchandising manager deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "E-Commerce Manager",
+        "description": "Responsible for e-commerce manager deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Marketplace Specialist",
+        "description": "Responsible for marketplace specialist deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Retail Analyst",
+        "description": "Responsible for retail analyst deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Omnichannel Operations Lead",
+        "description": "Responsible for omnichannel operations lead deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Process Optimization",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Customer Experience Manager",
+        "description": "Responsible for customer experience manager deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Category Manager",
+        "description": "Responsible for category manager deliverables in Retail & E-Commerce, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Customer Focus",
+          "Sales Strategy",
+          "Inventory Awareness",
+          "Communication",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Energy & Utilities",
+    "roles": [
+      {
+        "title": "Electrical Engineer",
+        "description": "Responsible for electrical engineer deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Power Systems Engineer",
+        "description": "Responsible for power systems engineer deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Renewable Energy Analyst",
+        "description": "Responsible for renewable energy analyst deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Solar Project Engineer",
+        "description": "Responsible for solar project engineer deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Wind Turbine Technician",
+        "description": "Responsible for wind turbine technician deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Energy Trader",
+        "description": "Responsible for energy trader deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Utilities Operations Manager",
+        "description": "Responsible for utilities operations manager deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Process Optimization",
+          "Inventory Management"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Sustainability Manager",
+        "description": "Responsible for sustainability manager deliverables in Energy & Utilities, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Safety Standards",
+          "Regulatory Compliance",
+          "Risk Management",
+          "Technical Documentation",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Telecommunications",
+    "roles": [
+      {
+        "title": "Network Engineer",
+        "description": "Responsible for network engineer deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Telecom Engineer",
+        "description": "Responsible for telecom engineer deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "RF Engineer",
+        "description": "Responsible for rf engineer deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "NOC Engineer",
+        "description": "Responsible for noc engineer deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Field Service Engineer",
+        "description": "Responsible for field service engineer deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Telecom Project Manager",
+        "description": "Responsible for telecom project manager deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "VoIP Engineer",
+        "description": "Responsible for voip engineer deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Network Security Specialist",
+        "description": "Responsible for network security specialist deliverables in Telecommunications, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Networking",
+          "Troubleshooting",
+          "Service Reliability",
+          "Documentation",
+          "SIEM",
+          "Threat Modeling",
+          "Cloud Security",
+          "Vulnerability Management",
+          "Security Operations",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Transportation & Logistics",
+    "roles": [
+      {
+        "title": "Logistics Manager",
+        "description": "Responsible for logistics manager deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Transportation Planner",
+        "description": "Responsible for transportation planner deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Fleet Manager",
+        "description": "Responsible for fleet manager deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Dispatch Coordinator",
+        "description": "Responsible for dispatch coordinator deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Customs Compliance Specialist",
+        "description": "Responsible for customs compliance specialist deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Last Mile Operations Lead",
+        "description": "Responsible for last mile operations lead deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Process Optimization",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Supply Chain Program Manager",
+        "description": "Responsible for supply chain program manager deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Warehouse Operations Supervisor",
+        "description": "Responsible for warehouse operations supervisor deliverables in Transportation & Logistics, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Route Planning",
+          "Operations Monitoring",
+          "Safety",
+          "Coordination",
+          "Process Optimization",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      }
+    ]
+  },
+  {
+    "domain": "Agriculture & Food",
+    "roles": [
+      {
+        "title": "Agronomist",
+        "description": "Responsible for agronomist deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Farm Operations Manager",
+        "description": "Responsible for farm operations manager deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Food Technologist",
+        "description": "Responsible for food technologist deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Quality Inspector Food",
+        "description": "Responsible for quality inspector food deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Supply Planner Food",
+        "description": "Responsible for supply planner food deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Process Optimization",
+          "Inventory Management",
+          "Demand Planning",
+          "Vendor Coordination",
+          "Reporting",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Agricultural Data Analyst",
+        "description": "Responsible for agricultural data analyst deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Dairy Production Specialist",
+        "description": "Responsible for dairy production specialist deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Food Safety Manager",
+        "description": "Responsible for food safety manager deliverables in Agriculture & Food, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Quality Standards",
+          "Safety",
+          "Operations Planning",
+          "Data Tracking",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Pharma & Biotechnology",
+    "roles": [
+      {
+        "title": "Biotech Research Scientist",
+        "description": "Responsible for biotech research scientist deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Clinical Data Manager",
+        "description": "Responsible for clinical data manager deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Leadership"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Regulatory Affairs Specialist",
+        "description": "Responsible for regulatory affairs specialist deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Quality Assurance Specialist Pharma",
+        "description": "Responsible for quality assurance specialist pharma deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Validation Engineer",
+        "description": "Responsible for validation engineer deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Python",
+          "JavaScript",
+          "System Design",
+          "Docker",
+          "Cloud Platforms",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Pharmacovigilance Analyst",
+        "description": "Responsible for pharmacovigilance analyst deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Bioinformatics Analyst",
+        "description": "Responsible for bioinformatics analyst deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Manufacturing Scientist",
+        "description": "Responsible for manufacturing scientist deliverables in Pharma & Biotechnology, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Documentation",
+          "Quality Systems",
+          "Data Integrity",
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Communication"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$100k - $200k"
+      }
+    ]
+  },
+  {
+    "domain": "Government & Public Sector",
+    "roles": [
+      {
+        "title": "Policy Analyst",
+        "description": "Responsible for policy analyst deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Public Administrator",
+        "description": "Responsible for public administrator deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Entry-Mid",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Urban Development Officer",
+        "description": "Responsible for urban development officer deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Government Data Analyst",
+        "description": "Responsible for government data analyst deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Pandas",
+          "Data Modeling",
+          "Communication"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Procurement Officer Public Sector",
+        "description": "Responsible for procurement officer public sector deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Process Optimization"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$50k - $110k"
+      },
+      {
+        "title": "Public Health Program Manager",
+        "description": "Responsible for public health program manager deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Patient Care"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$100k - $200k"
+      },
+      {
+        "title": "Emergency Management Specialist",
+        "description": "Responsible for emergency management specialist deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Communication",
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "experience_level": "Mid",
+        "salary_range": "$70k - $150k"
+      },
+      {
+        "title": "Foreign Service Officer",
+        "description": "Responsible for foreign service officer deliverables in Government & Public Sector, ensuring quality execution and measurable outcomes.",
+        "required_skills": [
+          "Policy Awareness",
+          "Public Communication",
+          "Documentation",
+          "Regulatory Compliance",
+          "Leadership",
+          "Strategic Planning",
+          "Stakeholder Management",
+          "KPI Tracking",
+          "Risk Management",
+          "Communication"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$50k - $110k"
+      }
+    ]
+  }
+]
